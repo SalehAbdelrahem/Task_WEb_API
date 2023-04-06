@@ -1,0 +1,15 @@
+D:\Aman_Task\AmanTask\DBContext\bin\Debug\net7.0\MyDBContext.deps.json
+D:\Aman_Task\AmanTask\DBContext\bin\Debug\net7.0\MyDBContext.dll
+D:\Aman_Task\AmanTask\DBContext\bin\Debug\net7.0\MyDBContext.pdb
+D:\Aman_Task\AmanTask\DBContext\bin\Debug\net7.0\Domain.dll
+D:\Aman_Task\AmanTask\DBContext\bin\Debug\net7.0\Domain.pdb
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\MyDBContext.csproj.AssemblyReference.cache
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\MyDBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\MyDBContext.AssemblyInfoInputs.cache
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\MyDBContext.AssemblyInfo.cs
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\MyDBContext.csproj.CoreCompileInputs.cache
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\MyDBContext.csproj.CopyComplete
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\MyDBContext.dll
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\refint\MyDBContext.dll
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\MyDBContext.pdb
+D:\Aman_Task\AmanTask\DBContext\obj\Debug\net7.0\ref\MyDBContext.dll

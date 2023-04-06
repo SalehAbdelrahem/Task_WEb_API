@@ -1,0 +1,12 @@
+D:\Aman_Task\AmanTask\DTOS\bin\Debug\net7.0\DTOS.deps.json
+D:\Aman_Task\AmanTask\DTOS\bin\Debug\net7.0\DTOS.dll
+D:\Aman_Task\AmanTask\DTOS\bin\Debug\net7.0\DTOS.pdb
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\DTOS.csproj.AssemblyReference.cache
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\DTOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\DTOS.AssemblyInfoInputs.cache
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\DTOS.AssemblyInfo.cs
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\DTOS.csproj.CoreCompileInputs.cache
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\DTOS.dll
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\refint\DTOS.dll
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\DTOS.pdb
+D:\Aman_Task\AmanTask\DTOS\obj\Debug\net7.0\ref\DTOS.dll
